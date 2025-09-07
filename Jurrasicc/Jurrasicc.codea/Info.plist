@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>PlayerProfile</string>
+		<string>DinouasuarManager</string>
+		<string>AdminConsoleCore</string>
+		<string>ConsoleCommands</string>
+		<string>DinoView</string>
+		<string>Hatchery</string>
+		<string>SaveSystem</string>
+		<string>DinoMarket</string>
+		<string>DinoStats</string>
+		<string>PassiveMoney</string>
+		<string>ResetButton </string>
+		<string>Mutations</string>
+		<string>Cinematics</string>
+		<string>Battle</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+DinoStats = {
+    ["Indominus Rex"] = {attack = 300, health = 500, rarity = "Apex", cost = 10000},
+    ["Scorpion Full Potential"] = {attack = 600, health = 999, rarity = "Omega", cost = 20000},
+    ["Tyrannosaurus Rex"] = {attack = 200, health = 350, rarity = "Epic", cost = 6000},
+    ["Velociraptor"] = {attack = 120, health = 150, rarity = "Rare", cost = 1000},
+    ["Triceratops"] = {attack = 100, health = 200, rarity = "Common", cost = 2000},
+    ["Stegosaurus"] = {attack = 110, health = 220, rarity = "Common", cost = 2200},
+    ["Brachiosaurus"] = {attack = 90, health = 300, rarity = "Common", cost = 2500},
+    ["Spinosaurus"] = {attack = 180, health = 280, rarity = "Epic", cost = 5500},
+    ["Pteranodon"] = {attack = 130, health = 160, rarity = "Rare", cost = 3200},
+    ["Mosasaurus"] = {attack = 240, health = 400, rarity = "Legendary", cost = 7500},
+    ["Ankylosaurus"] = {attack = 100, health = 250, rarity = "Rare", cost = 2800},
+    ["Gallimimus"] = {attack = 80, health = 120, rarity = "Common", cost = 1800},
+    ["Carnotaurus"] = {attack = 160, health = 220, rarity = "Rare", cost = 3500},
+    ["Giganotosaurus"] = {attack = 280, health = 450, rarity = "Apex", cost = 9500},
+    ["Allosaurus"] = {attack = 190, health = 300, rarity = "Epic", cost = 5000},
+    ["Dimetrodon"] = {attack = 150, health = 200, rarity = "Rare", cost = 3300},
+    ["Pachycephalosaurus"] = {attack = 90, health = 180, rarity = "Common", cost = 2100},
+    ["Dilophosaurus"] = {attack = 140, health = 190, rarity = "Rare", cost = 3400},
+    ["Irritator"] = {attack = 220, health = 320, rarity = "Epic", cost = 5800}
+}

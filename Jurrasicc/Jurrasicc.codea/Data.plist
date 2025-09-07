@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>playerSave</key>
+	<string>{"dna":999999974999,"dinos":[{"dupes":0,"health":4319,"attack":36000,"mutations":["Seraphic Grace"],"name":"Scorpion Full Potential","level":100},{"dupes":0,"health":0,"attack":28800,"mutations":["Seraphic Grace"],"name":"Scorpion Full Potential","level":100},{"dupes":0,"health":59940,"attack":36000,"mutations":["Seraphic Grace"],"name":"Scorpion Full Potential","level":100},{"dupes":0,"health":0,"attack":600,"mutations":["Seraphic Grace"],"name":"Scorpion Full Potential","level":100},{"dupes":0,"health":0,"attack":600,"mutations":["Seraphic Grace"],"name":"Scorpion Full Potential","level":100}],"coins":199870,"food":1000}</string>
+</dict>
+</plist>
