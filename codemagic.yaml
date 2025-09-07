@@ -1,0 +1,22 @@
+workflows:
+  ios-workflow:
+    name: Build Jurrasicc iOS App
+    environment:
+      vars:
+        XCODE_PROJECT: "Jurrasicc"
+        XCODE_SCHEME: "Jurrasicc"
+    scripts:
+      - name: Build .ipa
+        script: |
+          xcodebuild -project $XCODE_PROJECT.xcodeproj \
+                     -scheme $XCODE_SCHEME \
+                     -configuration Release \
+                     -sdk iphoneos \
+                     archive -archivePath $HOME/build/Jurrasicc.xcarchive
+
+          xcodebuild -exportArchive \
+                     -archivePath $HOME/build/Jurrasicc.xcarchive \
+                     -exportOptionsPlist exportOptions.plist \
+                     -exportPath $HOME/build/ipa
+    artifacts:
+      - build/ipa/*.ipa
